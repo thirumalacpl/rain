@@ -64,3 +64,7 @@
     color: #333;
     text-indent: 33px;
 }
+
+.li_bot_1 {
+	    border-bottom: 2px dotted #353333;
+}
